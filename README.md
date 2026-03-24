@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## More Ideas for Game:
-- implement AI
+- implement fifo deletion where first move disappears after move len 3
 - Display the location for each move in the format (col, row) in the move history list.
 - Bold the currently selected item in the move list.
 - Rewrite Board to use two loops to make the squares instead of hard-coding them.
